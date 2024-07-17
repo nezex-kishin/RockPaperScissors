@@ -5,7 +5,6 @@ moves = {1: 'Камень',
      3: 'Бумага',
      4: 'Выйти из игры'
      }
-move = 1
 while True:
     for i in moves:
         print(i,moves[i])
